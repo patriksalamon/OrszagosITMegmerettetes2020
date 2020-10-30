@@ -1,0 +1,6 @@
+C:\Users\psalamon\Source\Repos\OrszagasITMegmerettetes2020\OrszagasITMegmerettetes2020\bin\Debug\OrszagasITMegmerettetes2020.exe.config
+C:\Users\psalamon\Source\Repos\OrszagasITMegmerettetes2020\OrszagasITMegmerettetes2020\bin\Debug\OrszagasITMegmerettetes2020.exe
+C:\Users\psalamon\Source\Repos\OrszagasITMegmerettetes2020\OrszagasITMegmerettetes2020\bin\Debug\OrszagasITMegmerettetes2020.pdb
+C:\Users\psalamon\Source\Repos\OrszagasITMegmerettetes2020\OrszagasITMegmerettetes2020\obj\Debug\OrszagasITMegmerettetes2020.csprojAssemblyReference.cache
+C:\Users\psalamon\Source\Repos\OrszagasITMegmerettetes2020\OrszagasITMegmerettetes2020\obj\Debug\OrszagasITMegmerettetes2020.exe
+C:\Users\psalamon\Source\Repos\OrszagasITMegmerettetes2020\OrszagasITMegmerettetes2020\obj\Debug\OrszagasITMegmerettetes2020.pdb
