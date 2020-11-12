@@ -18,9 +18,12 @@ namespace OrszagasITMegmerettetes2020
                 Console.Write(item);
             }
             Console.WriteLine();
-      
+
             Fordulo2.Challange2A();
             Fordulo2.Challange2B("schluss", 101);
+
+            Fordulo3.Challange3A();
+            Fordulo3.Challange3B();
 
             Console.ReadLine();
         } 
