@@ -25,7 +25,11 @@ namespace OrszagasITMegmerettetes2020
             Fordulo3.Challange3A();
             Fordulo3.Challange3B();
 
+            Fordulo4.Challange4A();
+            Fordulo4.Challange4B();
+            Fordulo4.Challange4Main();
+
             Console.ReadLine();
-        } 
+        }   
     }
 }

@@ -48,6 +48,7 @@
     <Compile Include="Fordulo1.cs" />
     <Compile Include="Fordulo2.cs" />
     <Compile Include="Fordulo3.cs" />
+    <Compile Include="Fordulo4.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
