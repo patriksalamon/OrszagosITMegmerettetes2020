@@ -29,7 +29,11 @@ namespace OrszagasITMegmerettetes2020
             Fordulo4.Challange4B();
             Fordulo4.Challange4Main();
 
+            Console.WriteLine("5.Forduló 1.feladat eredménye: 4mp-ig fut");
+            Fordulo5.Challange5B();
+            Console.WriteLine(Fordulo5.Challange5C());
+
             Console.ReadLine();
-        }   
+        }
     }
 }
