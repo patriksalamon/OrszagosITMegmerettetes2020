@@ -33,6 +33,9 @@ namespace OrszagasITMegmerettetes2020
             Fordulo5.Challange5B();
             Console.WriteLine(Fordulo5.Challange5C());
 
+            Fordulo6 fordulo6 = new Fordulo6();
+            Fordulo6.Challange6B();
+
             Console.ReadLine();
         }
     }
